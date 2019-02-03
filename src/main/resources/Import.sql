@@ -1,0 +1,21 @@
+
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn) VALUES(101,'Chandra','P.Lunak',70);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn) VALUES(102,'Loranti ','P.Lunak',90);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(103,'Makayi','P.Lunak',67);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(104,'Wastunak','P.Lunak',70);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(105,'Anisi','P.Lunak',67);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(106,'LaLunak','Komunikasi',87);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(107,'Balno','Komunikasi',76);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(108,'Sapti','Komunikasi',88);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(109,'Yuki','Komunikasi',93);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(110,'Tino','Komunikasi',55);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(111,'Basuki','Akuntansi',86);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(112,'Jamirin','Akuntansi',94);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(113,'Tunisa','Akuntansi',91);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(114,'Bayuwa','Akuntansi',76);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(115,'Melati','Akuntansi',86);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(116,'Sandry','Akuntansi',94);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(117,'Santi','P.Lunak',94);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(118,'Pukiyem''P.Lunak',84);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(119,'Tony','P.Lunak',87);
+INSERT INTO pelajar(id,nama,jurusan,nilaiUn)  VALUES(120,'Harusan','P.Lunak',89);
